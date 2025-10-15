@@ -2,7 +2,10 @@
 
  **Aquí, el debugging no es corrección: es transformación. El error no es enemigo, es maestro. El sistema no falla: evoluciona.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moleculax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/moleculax)   [![Build with ❤️](https://img.shields.io/badge/built%20with-%E2%9D%A4-red)]() [![Status](https://img.shields.io/badge/status-en%20evolución-8A2BE2)]()  [![Blogspot](https://img.shields.io/badge/Blogspot-%23FF5722.svg?logo=blogger&logoColor=white)](http://moleculax.blogspot.com) [![Docker Hub](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)](https://hub.docker.com/u/moleculax)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moleculax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/moleculax)   [![Build with ❤️](https://img.shields.io/badge/built%20with-%E2%9D%A4-red)]() [![Status](https://img.shields.io/badge/status-en%20evolución-8A2BE2)]()  [![Blogspot](https://img.shields.io/badge/Blogspot-%23FF5722.svg?logo=blogger&logoColor=white)](http://moleculax.blogspot.com) [![Docker Hub](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)](https://hub.docker.com/u/moleculax)  [![Git Hub](https://img.shields.io/badge/Github-%230db7ed.svg?logo=github&logoColor=black)](https://github.com/moleculax) 
+
+
+
 
 
 # 🌐 Perfil Profesional
@@ -65,7 +68,6 @@ Mi enfoque integra:
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moleculax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/moleculax)   [![Build with ❤️](https://img.shields.io/badge/built%20with-%E2%9D%A4-red)]() [![Status](https://img.shields.io/badge/status-en%20evolución-8A2BE2)]()  [![Blogspot](https://img.shields.io/badge/Blogspot-%23FF5722.svg?logo=blogger&logoColor=white)](http://moleculax.blogspot.com) [![Docker Hub](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)](https://hub.docker.com/u/moleculax)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moleculax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/moleculax)   [![Build with ❤️](https://img.shields.io/badge/built%20with-%E2%9D%A4-red)]() [![Status](https://img.shields.io/badge/status-en%20evolución-8A2BE2)]()  [![Blogspot](https://img.shields.io/badge/Blogspot-%23FF5722.svg?logo=blogger&logoColor=white)](http://moleculax.blogspot.com) [![Docker Hub](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)](https://hub.docker.com/u/moleculax) [![Git Hub](https://img.shields.io/badge/Github-%230db7ed.svg?logo=github&logoColor=black)](https://github.com/moleculax) 
 
 
-[Visita mi GitHub](https://github.com/moleculax)
